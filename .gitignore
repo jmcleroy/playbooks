@@ -1,0 +1,10 @@
+
+pivotal-tcserver/files/jdk-8u102-linux-x64.tar.gz
+
+pivotal-tcserver/files/pivotal-tc-server-standard-3.2.2-RELEASE.noarch.rpm
+
+pivotal-tcserver/files/pivotal-web-server-6.2.2-0.x86_64.rpm
+
+*.rpm
+
+pivotal-tcserver/roles/tomcat/files/jdk-8u102-linux-x64.tar.gz
